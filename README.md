@@ -9,6 +9,8 @@ In the context of defending against badnets, pruning can be used to remove conne
 ## Usage
 To use the code in this repository, clone the repository and run the pruning_defense.ipynb. This notebook contains the code for implementing the pruning defense against badnets, and includes instructions for configuring and running the defense.
 
+Data can be pulled from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq).
+
 ## Dependencies
 This code is written in Python and requires the following dependencies:
 
